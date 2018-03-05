@@ -8,9 +8,9 @@ django-pagseguro
         :target: https://coveralls.io/r/fabiocerqueira/django-pagseguro?branch=master
 .. image:: https://landscape.io/github/fabiocerqueira/django-pagseguro/master/landscape.png
         :target: https://landscape.io/github/fabiocerqueira/django-pagseguro/master
-.. image:: https://pypip.in/v/django-pagseguro/badge.png
+.. image:: https://img.shields.io/pypi/v/django-pagseguro.svg
         :target: https://crate.io/packages/django-pagseguro/
-.. image:: https://pypip.in/d/django-pagseguro/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-pagseguro.svg
         :target: https://crate.io/packages/django-pagseguro/
 
 Aplicação para facilitar integração do django com pagseguro.
